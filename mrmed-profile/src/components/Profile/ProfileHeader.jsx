@@ -14,7 +14,7 @@ const ProfileHeader = () => {
           </Col>
           <Col>
             <div className="d-flex align-items-center mb-2">
-              <h3 className="mb-0 me-3">Prasanthi</h3>
+              <h3 className="mb-0 me-3">Prasanth</h3>
               <Badge bg="success" className="security-badge">
                 <ShieldCheck size={14} className="me-1" />
                 Verified

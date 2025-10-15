@@ -18,9 +18,9 @@ const ProfileInfo = () => {
   const [twoFactorEnabled, setTwoFactorEnabled] = useState(false);
   
   const [profileData, setProfileData] = useState({
-    firstName: 'Prasanthi',
+    firstName: 'Prasanth',
     lastName: '',
-    email: 'prasanthi875436@gmail.com',
+    email: 'prasanth875436@gmail.com',
     phone: '+91 8754369375',
     dob: '',
     gender: '',

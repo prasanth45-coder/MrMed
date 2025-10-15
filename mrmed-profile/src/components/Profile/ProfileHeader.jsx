@@ -22,7 +22,7 @@ const ProfileHeader = () => {
             </div>
             <p className="mb-1">
               <Envelope size={16} className="me-2" />
-              prasanthi875436@gmail.com
+              prasanth875436@gmail.com
             </p>
             <p className="mb-0">
               <Phone size={16} className="me-2" />
